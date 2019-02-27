@@ -1,0 +1,12 @@
+.is-invalid {
+    border-left: solid 6px red;
+  }
+  
+  .material-icons {
+    display: inline-flex;
+    vertical-align: middle;
+  }
+  h1{
+      background-color: orange;
+  }
+   
